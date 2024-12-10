@@ -1,7 +1,3 @@
-Here’s a sample README for your project based on the file name and its likely context. If you provide more details about the report or the project, I can tailor it further.
-
----
-
 # Superstore Report
 
 This repository contains a Power BI report analyzing the Superstore dataset, designed to provide actionable insights into sales, profit trends, customer segments, and regional performance.
@@ -62,7 +58,3 @@ Contributions are welcome! Feel free to fork the repo and submit a pull request.
 ## 📜 License
 
 This project is licensed under the [MIT License](LICENSE).
-
----
-
-Does this align with your project? Let me know if you'd like specific sections updated!
